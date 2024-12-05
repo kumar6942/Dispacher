@@ -1,0 +1,14 @@
+﻿{
+  "Name": "On Us Check",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "7VkQv3jbm0yK2s3kg1pS6Q",
+  "Reference": "JS4zq8Nmi0CRUbgARL2LMA/7VkQv3jbm0yK2s3kg1pS6Q",
+  "ParentRef": "JS4zq8Nmi0CRUbgARL2LMA/yQBqjuybvU2yINByNb15NA",
+  "Created": "2024-12-04T16:55:42.3574925Z",
+  "Updated": "2024-12-04T16:55:42.3574925Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
